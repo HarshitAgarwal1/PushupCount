@@ -6,7 +6,7 @@ This Application Makes your job of counting reps while working out a piece of ca
 ### Installing
 
 Download the app release apk and install it from
-[Apk]()
+[Apk](app/build/outputs/apk/debug/app-debug.apk)
 
 <!-- ## Built With
 
@@ -19,7 +19,7 @@ Download the app release apk and install it from
 ## Contributing
 
 Please read the 
-[Bugs And Todo List]() file for details on contributing
+[Bugs And Todo List](app/BugsAndTodo.md) file for details on contributing
 
 
 <!-- ## License
