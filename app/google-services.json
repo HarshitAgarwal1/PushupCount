@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134881779723",
+    "firebase_url": "https://pushup-counter-29439.firebaseio.com",
+    "project_id": "pushup-counter-29439",
+    "storage_bucket": "pushup-counter-29439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134881779723:android:08b2b44ae87ea3ab2b670e",
+        "android_client_info": {
+          "package_name": "com.example.pushupcounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134881779723-4e6h8tsql8fm4cc4th9vs7ldkg82fp9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushupcounter",
+            "certificate_hash": "e94038abf6dc64b732f637fef5b240f2559b823a"
+          }
+        },
+        {
+          "client_id": "134881779723-hngicjke4kou4o53l3ng37op2kesovj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmaCYZi4D4APOo1xpR-LmsRbP7X_xLlDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134881779723-hngicjke4kou4o53l3ng37op2kesovj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

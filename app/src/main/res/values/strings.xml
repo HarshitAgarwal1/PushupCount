@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pushup Counter</string>
+    <string name="timer">0</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="serialno">1</string>
+    <string name="totalpushups">20:15</string>
+    <string name="totaltimetaken">50 pushups In 15 mins</string>
+</resources>

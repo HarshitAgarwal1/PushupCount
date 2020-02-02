@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/motimsg"
+        android:layout_width="325dp"
+        android:layout_height="209dp"
+        android:layout_marginLeft="34dp"
+        android:layout_marginTop="60dp"
+        android:layout_marginRight="34dp"
+        android:background="@drawable/greybg"
+        android:clickable="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:text="Lets Do It"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="25sp" />
+
+    <Chronometer
+        android:id="@+id/stopwatch"
+        android:layout_width="240dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/motimsg"
+        android:layout_centerInParent="true"
+        android:textAlignment="center"
+        android:textSize="40sp"
+
+        />
+
+    <TextView
+        android:id="@+id/timer"
+        android:layout_width="243dp"
+        android:layout_height="102dp"
+        android:layout_below="@id/stopwatch"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/greybg"
+        android:text="@string/timer"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="60sp" />
+
+    <TextView
+        android:id="@+id/start"
+        android:layout_width="321dp"
+        android:layout_height="66dp"
+        android:layout_below="@id/timer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/greybg"
+        android:clickable="true"
+        android:focusable="true"
+        android:text = "@string/start"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/stop"
+        android:layout_width="142dp"
+        android:layout_height="65dp"
+        android:layout_below="@id/start"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/greybg"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="STOP"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="35sp" />
+
+    <TextView
+        android:id="@+id/plus"
+        android:layout_width="63dp"
+        android:layout_height="63dp"
+        android:layout_below="@id/start"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/greybg"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="+"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="45sp" />
+
+    <TextView
+        android:id="@+id/minus"
+        android:layout_width="63dp"
+        android:layout_height="63dp"
+        android:layout_below="@id/start"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/greybg"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="-"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="45sp" />
+
+    <TextView
+        android:id="@+id/showlog"
+        android:layout_width="321dp"
+        android:layout_height="66dp"
+        android:layout_below="@id/stop"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/greybg"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="Show Log"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="35sp" />
+
+
+</RelativeLayout>
+
+
