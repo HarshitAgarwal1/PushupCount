@@ -22,7 +22,7 @@ Please read the
 [Bugs And Todo List](app/BugsAndTodo.md) file for details on contributing
 
 Also Checkout The UI Designs From
-[UI Designs]() .
+[UI Designs](UIDesign/) .
 <!-- ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
