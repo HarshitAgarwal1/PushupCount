@@ -28,6 +28,7 @@ The Third Tab is the **Add PopUp** Tabs
 
 It shows two options which triggers two activities.
 <hr>
+
 **1. Add New Recipe**
 
 <img width="200" alt="NewRecipe" src="UIDesign/New-Recipe.png">
@@ -35,7 +36,9 @@ It shows two options which triggers two activities.
 **2. Add New Workout** 
 
 <img width="200" alt="NewWorkout" src="UIDesign/New-Workout.png">
-***
+
+___
+
 The Fourth Tab Is The **Profile** Tab.
 
 <img width="200" alt="Profile" src="UIDesign/Profile.png">
