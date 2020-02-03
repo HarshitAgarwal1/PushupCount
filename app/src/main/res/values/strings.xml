@@ -6,4 +6,15 @@
     <string name="serialno">1</string>
     <string name="totalpushups">20:15</string>
     <string name="totaltimetaken">50 pushups In 15 mins</string>
+    <string name="facebook_app_id">206578023854169</string>
+    <string name="fb_login_protocol_scheme">fb206578023854169</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="register">REGISTER</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email</string>
+
 </resources>
