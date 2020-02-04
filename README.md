@@ -30,6 +30,7 @@ It shows two options which triggers two activities.
 
 ___
 
+
 **1. Add New Recipe**
 
 <img width="200" alt="NewRecipe" src="UIDesign/New-Recipe.png">
