@@ -64,6 +64,8 @@ Download the app release apk and install it from
 Please read the 
 [Bugs And Todo List](app/BugsAndTodo.md) file for details on contributing
 
+For a summary of feature lists, click [here](app/Otherfeatureplans.md).
+
 Also Checkout The UI Designs From
 [UI Designs](UIDesign/) .
 
